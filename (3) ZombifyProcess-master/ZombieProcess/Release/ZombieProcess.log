@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\pentesting\windows\process injection\zombifyprocess-master\zombieprocess\main.cpp(100): warning C4101: 'SectionHeader': unreferenced local variable
+c:\pentesting\windows\process injection\zombifyprocess-master\zombieprocess\main.cpp(106): warning C4101: 'i': unreferenced local variable
+c:\pentesting\windows\process injection\zombifyprocess-master\zombieprocess\main.cpp(98): warning C4101: 'OriginalBaseAddress': unreferenced local variable
+c:\pentesting\windows\process injection\zombifyprocess-master\zombieprocess\main.cpp(227): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'LPVOID'
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ZombieProcess.vcxproj -> C:\Pentesting\Windows\Process Injection\ZombifyProcess-master\Release\ZombieProcess.exe
